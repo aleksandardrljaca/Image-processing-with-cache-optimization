@@ -2,6 +2,8 @@
 
 Project for Computer Architecture course
 
+LibGD used for image manipulation
+
 How to run? :
 clang image.c process.c edgeDetectionMain.c -l gd
 ./a.out
